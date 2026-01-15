@@ -1,5 +1,4 @@
 # op2
-web3-learning-journal
  Web3 Learning Journal
 
  Tujuan 6 Bulan
